@@ -1,5 +1,7 @@
 Demo Site:
 
+Стек: React, Redux, TailwindCSS, Chart.js
+
 # Getting Started with Create React App
 ## Available Scripts
 
