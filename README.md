@@ -1,4 +1,4 @@
-Demo Site:
+Demo Site: <strong>coin-trade-app.netlify.app</strong>
 
 Стек: React, Redux, TailwindCSS, Chart.js
 
